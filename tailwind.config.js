@@ -11,8 +11,8 @@ module.exports = {
       black: "#39322f",
     },
     fontFamily: {
-      sans: ["Graphik", "sans-serif"],
-      serif: ["Merriweather", "serif"],
+      sans: ["Montserrat", "sans-serif"],
+      serif: ["Arvo", "serif"],
     },
     extend: {},
   },
