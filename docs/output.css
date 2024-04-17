@@ -570,6 +570,10 @@ video {
   margin: 5rem;
 }
 
+.m-10 {
+  margin: 2.5rem;
+}
+
 .w-2\/3 {
   width: 66.666667%;
 }
@@ -668,6 +672,10 @@ video {
 
   .md\:right-0 {
     right: 0px;
+  }
+
+  .md\:m-20 {
+    margin: 5rem;
   }
 
   .md\:w-1\/2 {
